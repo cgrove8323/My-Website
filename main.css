@@ -3,11 +3,24 @@ body {
 }
 
 h1 {
-
-
 }
 
 h2 {
   font-family: sans-serif;
   font-size: 20px
+}
+
+img {
+  max-width: 200px;
+
+}
+
+img.left {
+  float: left;
+  margin-right: 20px;
+  margin-left: 20px
+}
+
+p.review {
+  max-width: 800px
 }
