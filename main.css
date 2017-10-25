@@ -1,8 +1,9 @@
 body {
-  background-color: #23b0fc;
+  background-color: #36daed;
 }
 
 h1 {
+  text-align: center;
 }
 
 h2 {
@@ -22,5 +23,15 @@ img.left {
 }
 
 p.review {
-  max-width: 800px
+  max-width: 800px;
+  margin-left: 20px
+}
+
+p.price{
+  float: right;
+  
+}
+a.buy {
+  float: right;
+  margin-right: 100px
 }
