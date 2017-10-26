@@ -4,6 +4,7 @@ body {
 
 h1 {
   text-align: center;
+  font-family: 'Delius', cursive;
 }
 
 h2 {
@@ -24,12 +25,13 @@ img.left {
 
 p.review {
   max-width: 800px;
-  margin-left: 20px
+  margin-left: 20px;
+  font-family: 'Libre Baskerville', serif;
 }
 
 p.price{
   float: right;
-  
+
 }
 a.buy {
   float: right;
