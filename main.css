@@ -15,14 +15,11 @@ h2 {
 
 img {
   max-width: 200px;
-
-}
-
-img.left {
   float: left;
   margin-right: 20px;
-  margin-left: 20px
+  margin-left: 20px;
 }
+
 
 p {
   font-family: 'Libre Baskerville', serif;
