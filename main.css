@@ -8,8 +8,9 @@ h1 {
 }
 
 h2 {
-  font-family: sans-serif;
-  font-size: 20px
+  font-family: 'Delius', cursive;
+  font-size: 30px;
+  margin: 20px
 }
 
 img {
@@ -23,6 +24,10 @@ img.left {
   margin-left: 20px
 }
 
+p {
+  font-family: 'Libre Baskerville', serif;
+  margin: 20px
+}
 p.review {
   max-width: 800px;
   margin-left: 20px;
@@ -31,7 +36,7 @@ p.review {
 
 p.price{
   float: right;
-
+  font-family: 'Libre Baskerville', serif;
 }
 a.buy {
   float: right;
